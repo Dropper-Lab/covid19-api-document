@@ -189,6 +189,7 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 |gibraltar|지브롤터|
 |palestine|팔레스타인 |
 |japan_cruise|일본 크루즈|
+|southsudan|남수단|
 |malawi|말라위|
 |sierraleone|시에라리온|
 |burundi|브룬디|
