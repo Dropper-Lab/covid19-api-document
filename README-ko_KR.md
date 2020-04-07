@@ -156,7 +156,7 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 
 |값|설명|
 |synthesize|합계|
-falklandislands|포클랜드제도|
+|falklandislands|포클랜드제도|
 |caribbeannetherlands|카리브 네덜란드|
 |northernmarianaislands|북마리아나제도|
 |britishvirginislands|영국령 버진아일랜드|
