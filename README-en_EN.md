@@ -152,7 +152,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='III-2'/>
 
-### 지원 국가
+### supported country
 
 |value|detail|
 |:-:|:-:|
@@ -190,7 +190,6 @@ falklandislands|Falkland Islands|
 |gibraltar|Gibraltar|
 |palestine|Palestine|
 |japan_cruise|Japanese Cruise|
-|malawi|Malawi|
 |sierraleone|Sierra Leone|
 |burundi|Burundi|
 |botswana|Botswana|
