@@ -190,6 +190,7 @@ falklandislands|Falkland Islands|
 |gibraltar|Gibraltar|
 |palestine|Palestine|
 |japan_cruise|Japanese Cruise|
+|sainttomeprincipe|Saint Tome Principe|
 |southsudan|South Sudan|
 |sierraleone|Sierra Leone|
 |burundi|Burundi|
