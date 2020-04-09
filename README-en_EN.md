@@ -156,6 +156,7 @@ Any platform or application developed in any language can be requested and used,
 
 |value|detail|
 |:-:|:-:|
+|saintpierreandmiquelon|Saint Pierre and Miquelon|
 |synthesize|The whole region|
 |falklandislands|Falkland Islands|
 |caribbeannetherlands|Caribbean Netherlands|
