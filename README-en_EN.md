@@ -157,7 +157,7 @@ Any platform or application developed in any language can be requested and used,
 |value|detail|
 |:-:|:-:|
 |synthesize|The whole region|
-falklandislands|Falkland Islands|
+|falklandislands|Falkland Islands|
 |caribbeannetherlands|Caribbean Netherlands|
 |northernmarianaislands|Northern Mariana Islands|
 |britishvirginislands|British Virgin Islands|
