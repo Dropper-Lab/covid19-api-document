@@ -89,7 +89,10 @@ Any platform or application developed in any language can be requested and used,
 |timestamp|int|When the data was collected|
 |announced_timestamp|int|When the data was released|
 |increased|int|Number of increased patients|
+|increased_foreign|int|Number of increased patients brought in from abroad|
+|increased_local|int|Number of increased locally infected patients|
 |certified|int|Number of confirmed patients|
+|isolated|int|Number of isolated patients|
 |deisolated|int|Number of unisolated patients|
 |dead|int|Number of dead patients|
 |percentage|float|Infection rate|
@@ -100,37 +103,41 @@ Any platform or application developed in any language can be requested and used,
 
 ```json
 {
-    "status": {
-        "code": 200,
-        "message": "Successfully loaded 1 rows."
-    },
-    "data": [{
-        "timestamp": 1584162001,
-        "announced_timestamp": 1015113600,
-        "increased": 107,
-        "certified": 8086,
-        "deisolated": 714,
-        "dead": 72,
-        "percentage": 15.6
-    }]
+   "status": {
+      "code": 200,
+      "message": "Successfully loaded 1 rows."
+   },
+   "data": [
+      {
+         "timestamp": 1586616409,
+         "announced_timestamp": 1586530800,
+         "increased": 30,
+         "certified": 10480,
+         "deisolated": 7243,
+         "dead": 211,
+         "percentage": 20.21
+      }
+   ]
 }
 ```
 
 ```json
 {
-    "status": {
-        "code": 200,
-        "message": "Successfully loaded 1 rows."
-    },
-    "data": [{
-        "timestamp": 1584162001,
-        "announced_timestamp": 1015113600,
-        "increased": 13,
-        "certified": 238,
-        "deisolated": 44,
-        "dead": 0,
-        "percentage": 2.45
-    }]
+   "status": {
+      "code": 200,
+      "message": "Successfully loaded 1 rows."
+   },
+   "data": [
+      {
+         "timestamp": 1586616409,
+         "announced_timestamp": 1586530800,
+         "increased": 4,
+         "certified": 599,
+         "deisolated": 195,
+         "dead": 2,
+         "percentage": 6.15
+      }
+   ]
 }
 ```
 
