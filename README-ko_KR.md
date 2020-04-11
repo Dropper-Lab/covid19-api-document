@@ -89,7 +89,10 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 |timestamp|int|데이터를 수집한 시점|
 |announced_timestamp|int|데이터가 발표된 시점|
 |increased|int|늘어난 환자의 수|
+|increased_foreign|int|늘어난 환자 중 해외 유입자의 수|
+|increased_local|int|늘어난 환자 중 지역 감염자의 수|
 |certified|int|확진된 환자의 수|
+|isolated|int|격리된 환자의 수|
 |deisolated|int|격리해제된 환자의 수|
 |dead|int|사망한 환자의 수|
 |percentage|float|감염률|
@@ -100,37 +103,41 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 
 ```json
 {
-    "status": {
-        "code": 200,
-        "message": "Successfully loaded 1 rows."
-    },
-    "data": [{
-        "timestamp": 1584162001,
-        "announced_timestamp": 1015113600,
-        "increased": 107,
-        "certified": 8086,
-        "deisolated": 714,
-        "dead": 72,
-        "percentage": 15.6
-    }]
+   "status": {
+      "code": 200,
+      "message": "Successfully loaded 1 rows."
+   },
+   "data": [
+      {
+         "timestamp": 1586616409,
+         "announced_timestamp": 1586530800,
+         "increased": 30,
+         "certified": 10480,
+         "deisolated": 7243,
+         "dead": 211,
+         "percentage": 20.21
+      }
+   ]
 }
 ```
 
 ```json
 {
-    "status": {
-        "code": 200,
-        "message": "Successfully loaded 1 rows."
-    },
-    "data": [{
-        "timestamp": 1584162001,
-        "announced_timestamp": 1015113600,
-        "increased": 13,
-        "certified": 238,
-        "deisolated": 44,
-        "dead": 0,
-        "percentage": 2.45
-    }]
+   "status": {
+      "code": 200,
+      "message": "Successfully loaded 1 rows."
+   },
+   "data": [
+      {
+         "timestamp": 1586616409,
+         "announced_timestamp": 1586530800,
+         "increased": 4,
+         "certified": 599,
+         "deisolated": 195,
+         "dead": 2,
+         "percentage": 6.15
+      }
+   ]
 }
 ```
 
