@@ -331,6 +331,7 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 |brasil|브라질|
 |canada|캐나다|
 |usa|미국|
+|yemen|예멘|
 |libya|리비아|
 |syria|시리아|
 |morocco|모로코|
