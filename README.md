@@ -6,3 +6,8 @@
 
 # covid19-api-document
 The API document for COVID19 API from Dropper Lab.
+
+## Patch Note
+
+### v1.0.0
+- Initial release
