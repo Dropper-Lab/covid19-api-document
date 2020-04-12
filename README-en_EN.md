@@ -331,6 +331,7 @@ Any platform or application developed in any language can be requested and used,
 |brasil|Brasil|
 |canada|Canada|
 |usa|USA|
+|yemen|Yemen|
 |libya|Libya|
 |syria|Syria|
 |morocco|Morocco|
