@@ -155,7 +155,7 @@ Any platform or application developed in any language can be requested and used,
 
 |attribute|data type|essential|detail|
 |:-:|:-:|:-:|:-:|
-|locale|string|Yes|Country name|
+|nation|string|Yes|Country name|
 
 <div name='III-2'/>
 
