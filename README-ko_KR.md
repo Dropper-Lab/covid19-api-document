@@ -155,13 +155,14 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 
 |속성|자료형|필수|설명|
 |:-:|:-:|:-:|:-:|
-|locale|string|Yes|조회하고자 하는 국가명|
+|nation|string|Yes|조회하고자 하는 국가명|
 
 <div name='III-2'/>
 
 ### 지원 국가
 
 |값|설명|
+|:-:|:-:|
 |synthesize|합계|
 |saintpierreandmiquelon|생피에르미클롱|
 |falklandislands|포클랜드제도|
