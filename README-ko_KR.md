@@ -103,41 +103,41 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 
 ```json
 {
-   "status": {
-      "code": 200,
-      "message": "Successfully loaded 1 rows."
-   },
-   "data": [
-      {
-         "timestamp": 1586616409,
-         "announced_timestamp": 1586530800,
-         "increased": 30,
-         "certified": 10480,
-         "deisolated": 7243,
-         "dead": 211,
-         "percentage": 20.21
-      }
-   ]
+    "status":{
+        "code":200,
+        "message":"Successfully loaded 1 rows."
+    },
+    "data":[
+        {
+            "timestamp":1587384001,
+            "announced_timestamp":1587308400,
+            "increased":13,
+            "certified":10674,
+            "deisolated":8114,
+            "dead":236,
+            "percentage":20.59
+        }
+    ]
 }
 ```
 
 ```json
 {
-   "status": {
-      "code": 200,
-      "message": "Successfully loaded 1 rows."
-   },
-   "data": [
-      {
-         "timestamp": 1586616409,
-         "announced_timestamp": 1586530800,
-         "increased": 4,
-         "certified": 599,
-         "deisolated": 195,
-         "dead": 2,
-         "percentage": 6.15
-      }
-   ]
+    "status":{
+        "code":200,
+        "message":"Successfully loaded 1 rows."
+    },
+    "data":[
+        {
+            "timestamp":1587384001,
+            "announced_timestamp":1587308400,
+            "increased":2,
+            "certified":132,
+            "deisolated":115,
+            "dead":3,
+            "percentage":3.87
+        }
+    ]
 }
 ```
 
