@@ -89,7 +89,10 @@ Any platform or application developed in any language can be requested and used,
 |timestamp|int|When the data was collected|
 |announced_timestamp|int|When the data was released|
 |increased|int|Number of increased patients|
+|increased_foreign|int|Number of increased patients brought in from abroad|
+|increased_local|int|Number of increased locally infected patients|
 |certified|int|Number of confirmed patients|
+|isolated|int|Number of isolated patients|
 |deisolated|int|Number of unisolated patients|
 |dead|int|Number of dead patients|
 |percentage|float|Infection rate|
@@ -106,13 +109,16 @@ Any platform or application developed in any language can be requested and used,
     },
     "data":[
         {
-            "timestamp":1587384001,
-            "announced_timestamp":1587308400,
-            "increased":13,
-            "certified":10674,
-            "deisolated":8114,
-            "dead":236,
-            "percentage":20.59
+            "timestamp":1587474001,
+            "announced_timestamp":1587394800,
+            "increased":9,
+            "increased_foreign":5,
+            "increased_local":4,
+            "certified":10683,
+            "isolated":2233,
+            "deisolated":8213,
+            "dead":237,
+            "percentage":20.6
         }
     ]
 }
@@ -126,10 +132,13 @@ Any platform or application developed in any language can be requested and used,
     },
     "data":[
         {
-            "timestamp":1587384001,
-            "announced_timestamp":1587308400,
-            "increased":2,
+            "timestamp":1587474001,
+            "announced_timestamp":1587394800,
+            "increased":0,
+            "increased_foreign":0,
+            "increased_local":0,
             "certified":132,
+            "isolated":14,
             "deisolated":115,
             "dead":3,
             "percentage":3.87

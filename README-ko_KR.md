@@ -89,7 +89,10 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 |timestamp|int|데이터를 수집한 시점|
 |announced_timestamp|int|데이터가 발표된 시점|
 |increased|int|늘어난 환자의 수|
+|increased_foreign|int|늘어난 환자 중 해외 유입자의 수|
+|increased_local|int|늘어난 환자 중 지역 감염자의 수|
 |certified|int|확진된 환자의 수|
+|isolated|int|격리된 환자의 수|
 |deisolated|int|격리해제된 환자의 수|
 |dead|int|사망한 환자의 수|
 |percentage|float|감염률|
@@ -106,13 +109,16 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
     },
     "data":[
         {
-            "timestamp":1587384001,
-            "announced_timestamp":1587308400,
-            "increased":13,
-            "certified":10674,
-            "deisolated":8114,
-            "dead":236,
-            "percentage":20.59
+            "timestamp":1587474001,
+            "announced_timestamp":1587394800,
+            "increased":9,
+            "increased_foreign":5,
+            "increased_local":4,
+            "certified":10683,
+            "isolated":2233,
+            "deisolated":8213,
+            "dead":237,
+            "percentage":20.6
         }
     ]
 }
@@ -126,10 +132,13 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
     },
     "data":[
         {
-            "timestamp":1587384001,
-            "announced_timestamp":1587308400,
-            "increased":2,
+            "timestamp":1587474001,
+            "announced_timestamp":1587394800,
+            "increased":0,
+            "increased_foreign":0,
+            "increased_local":0,
             "certified":132,
+            "isolated":14,
             "deisolated":115,
             "dead":3,
             "percentage":3.87
