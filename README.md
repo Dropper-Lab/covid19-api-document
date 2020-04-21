@@ -11,3 +11,8 @@ The API document for COVID19 API from Dropper Lab.
 
 ### v1.0.0
 - Initial release
+
+### v1.0.1
+- Add Yemen to supported country.
+- Update return field and return example of II.
+- Modify attribute name on III.
