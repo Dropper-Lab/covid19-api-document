@@ -89,10 +89,7 @@ Any platform or application developed in any language can be requested and used,
 |timestamp|int|When the data was collected|
 |announced_timestamp|int|When the data was released|
 |increased|int|Number of increased patients|
-|increased_foreign|int|Number of increased patients brought in from abroad|
-|increased_local|int|Number of increased locally infected patients|
 |certified|int|Number of confirmed patients|
-|isolated|int|Number of isolated patients|
 |deisolated|int|Number of unisolated patients|
 |dead|int|Number of dead patients|
 |percentage|float|Infection rate|
