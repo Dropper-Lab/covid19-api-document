@@ -169,8 +169,9 @@ Any platform or application developed in any language can be requested and used,
 
 |value|detail|
 |:-:|:-:|
-|saintpierreandmiquelon|Saint Pierre and Miquelon|
 |synthesize|The whole region|
+|etc|Etc.|
+|saintpierreandmiquelon|Saint Pierre and Miquelon|
 |falklandislands|Falkland Islands|
 |caribbeannetherlands|Caribbean Netherlands|
 |northernmarianaislands|Northern Mariana Islands|
@@ -204,6 +205,7 @@ Any platform or application developed in any language can be requested and used,
 |gibraltar|Gibraltar|
 |palestine|Palestine|
 |japan_cruise|Japanese Cruise|
+|comoros|Comoros|
 |sainttomeprincipe|Saint Tome Principe|
 |southsudan|South Sudan|
 |sierraleone|Sierra Leone|
@@ -356,6 +358,7 @@ Any platform or application developed in any language can be requested and used,
 |kuwait|Kuwait|
 |iran|Iran|
 |laos|Laos|
+|tajikistan|Tajikistan|
 |myanmar|Myanmar|
 |easttimor|East Timor|
 |kyrgyzstan|Kyrgyzstan|

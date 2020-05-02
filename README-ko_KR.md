@@ -170,6 +170,7 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 |값|설명|
 |:-:|:-:|
 |synthesize|합계|
+|etc|Etc.|
 |saintpierreandmiquelon|생피에르미클롱|
 |falklandislands|포클랜드제도|
 |caribbeannetherlands|카리브 네덜란드|
@@ -202,8 +203,9 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 |saintbarthelemy|생바르텔레미|
 |saintmartin|세인트마틴|
 |gibraltar|지브롤터|
-|palestine|팔레스타인 |
+|palestine|팔레스타인|
 |japan_cruise|일본 크루즈|
+|comoros|코모로|
 |sainttomeprincipe|상투메 프린시페|
 |southsudan|남수단|
 |malawi|말라위|
@@ -356,6 +358,7 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 |bahrain|바레인|
 |kuwait|쿠웨이트|
 |iran|이란|
+|tajikistan|타지키스탄|
 |laos|라오스|
 |myanmar|미얀마|
 |easttimor|동티모르|
