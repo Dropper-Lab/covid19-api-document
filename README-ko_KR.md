@@ -171,40 +171,6 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 |:-:|:-:|
 |synthesize|합계|
 |etc|Etc.|
-|saintpierreandmiquelon|생피에르미클롱|
-|falklandislands|포클랜드제도|
-|caribbeannetherlands|카리브 네덜란드|
-|northernmarianaislands|북마리아나제도|
-|britishvirginislands|영국령 버진아일랜드|
-|angula|앵귈라|
-|turksandcaicosislands|터크스 케이커스 제도|
-|isleofman|맨섬|
-|greenland|그린랜드|
-|newcaledonia|뉴칼레도니아|
-|montserrat|몬트세라트|
-|sintmaartin|신트마르틴|
-|bermuda|버뮤다|
-|aruba|아루바|
-|unitedstatesvirginislands|미국령 버진아일랜드|
-|guam|괌|
-|puertorico|푸에르토리코|
-|mayotte|마요트|
-|curacao|퀴라소|
-|cayman|케이맨제도|
-|guadeloupe|과들루프|
-|regionreunion|프랑스령 레위니옹|
-|jersey|저지섬|
-|polynesia|프랑스령 폴리네시아|
-|guernsey|건지섬|
-|faroeislands|패로제도|
-|guyane|프랑스령 기아나|
-|martinique|마르티니크|
-|vatican|바티칸|
-|saintbarthelemy|생바르텔레미|
-|saintmartin|세인트마틴|
-|gibraltar|지브롤터|
-|palestine|팔레스타인|
-|japan_cruise|일본 크루즈|
 |comoros|코모로|
 |sainttomeprincipe|상투메 프린시페|
 |southsudan|남수단|

@@ -171,40 +171,6 @@ Any platform or application developed in any language can be requested and used,
 |:-:|:-:|
 |synthesize|The whole region|
 |etc|Etc.|
-|saintpierreandmiquelon|Saint Pierre and Miquelon|
-|falklandislands|Falkland Islands|
-|caribbeannetherlands|Caribbean Netherlands|
-|northernmarianaislands|Northern Mariana Islands|
-|britishvirginislands|British Virgin Islands|
-|angula|Angula|
-|turksandcaicosislands|Turks and Caicos Islands|
-|isleofman|Isle of Man|
-|greenland|Greenland|
-|newcaledonia|New Caledonia|
-|montserrat|Montserrat|
-|sintmaartin|Sint Maarten|
-|bermuda|Bermuda|
-|aruba|Aruba|
-|unitedstatesvirginislands|United States Virgin Islands|
-|guam|Guam|
-|puertorico|Puerto Rico|
-|mayotte|Mayotte|
-|curacao|Curacao|
-|cayman|Cayman Islands|
-|guadeloupe|Guadeloupe|
-|regionreunion|Region Reunion|
-|jersey|Jersey Island|
-|polynesia|Polynesia|
-|guernsey|Guernsey Island|
-|faroeislands|Faroe Islands|
-|guyane|Guyane|
-|martinique|Martinique|
-|vatican|Vatican|
-|saintbarthelemy|Saint Barthelemy|
-|saintmartin|Saint Martin|
-|gibraltar|Gibraltar|
-|palestine|Palestine|
-|japan_cruise|Japanese Cruise|
 |comoros|Comoros|
 |sainttomeprincipe|Saint Tome Principe|
 |southsudan|South Sudan|

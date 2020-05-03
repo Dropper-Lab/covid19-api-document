@@ -20,3 +20,6 @@ The API document for COVID19 API from Dropper Lab.
 ### v1.0.2
 - Add etc, tajikistan, comoros to supported country.
 - Fix small errors in supported country.
+
+### v1.0.3
+- Remove unsupported countries from supported country.
