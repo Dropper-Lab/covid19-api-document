@@ -16,6 +16,15 @@ The API document for COVID19 API from Dropper Lab.
 - [python-mail-sender](https://github.com/Dropper-Lab/python-mail-sender)
 - [api-request-conut-resetor](https://github.com/Dropper-Lab/api-request-conut-resetor)
 
+## Crontab Automation
+
+```
+57 * * * * cd home/nulleekh/ ; python3.6 api-log-custodian.py
+0 * * * * cd home/nulleekh/ ; python3.6 status_crawler.py ; python3.6 foreign_crawler.py
+3 * * * * cd home/nulleekh/ ; python3.6 data_checker.py
+0 15 * * * cd home/nulleekh/ ; python3.6 requestcount_resetor.py
+```
+
 ## Patch Note
 
 ### v1.0.0
