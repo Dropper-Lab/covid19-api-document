@@ -24,6 +24,8 @@ The API document for COVID19 API from Dropper Lab.
 
 ## Crontab Automation
 
+All source codes have to be located in same folder. (In following case, source codes are in home/nulleekh/.)
+
 ```
 57 * * * * cd home/nulleekh/ ; python3.6 api-log-custodian.py
 0 * * * * cd home/nulleekh/ ; python3.6 status_crawler.py ; python3.6 foreign_crawler.py
