@@ -10,11 +10,17 @@ The API document for COVID19 API from Dropper Lab.
 ## Source Codes
 
 - [covid19-status-crawler](https://github.com/Dropper-Lab/covid19-status-crawler)
+	- Crawling trends of occurrence by city and province in Korea.
 - [covid19-foreign-crawler](https://github.com/Dropper-Lab/covid19-foreign-crawler)
+	- Crawling trends of occurrence by nation.
 - [covid19-data-checker](https://github.com/Dropper-Lab/covid19-data-checker)
+	- Check the data and fix it when it has problem.
 - [api-log-custodian](https://github.com/Dropper-Lab/api-log-custodian)
+	- Manage folders for log data and check the capacity of the log data.
 - [python-mail-sender](https://github.com/Dropper-Lab/python-mail-sender)
+	- Mail sender package.
 - [api-request-conut-resetor](https://github.com/Dropper-Lab/api-request-conut-resetor)
+	- Reset api request count.
 
 ## Crontab Automation
 
