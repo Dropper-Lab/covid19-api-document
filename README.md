@@ -7,7 +7,7 @@
 # covid19-api-document
 The API document for COVID19 API from Dropper Lab.
 
-## Source Codes
+## Source Code
 
 - [covid19-status-crawler](https://github.com/Dropper-Lab/covid19-status-crawler)
 	- Crawling trends of occurrence by city and province in Korea.
