@@ -49,3 +49,7 @@ All source codes have to be located in same folder. (In following case, source c
 
 ### v1.0.3
 - Remove unsupported countries from supported country.
+
+### v1.0.4
+- Add description about source code and crontab automation.
+- Add lesotho to supported country.
