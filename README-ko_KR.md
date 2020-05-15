@@ -171,6 +171,7 @@ Dropper Lab.의 COVID19 API를 위한 공식 도큐먼트
 |:-:|:-:|
 |synthesize|합계|
 |etc|Etc.|
+|lesotho|레소토|
 |comoros|코모로|
 |sainttomeprincipe|상투메 프린시페|
 |southsudan|남수단|

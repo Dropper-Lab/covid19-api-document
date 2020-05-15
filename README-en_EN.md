@@ -171,6 +171,7 @@ Any platform or application developed in any language can be requested and used,
 |:-:|:-:|
 |synthesize|The whole region|
 |etc|Etc.|
+|lesotho|Kingdom of Lesotho|
 |comoros|Comoros|
 |sainttomeprincipe|Saint Tome Principe|
 |southsudan|South Sudan|
