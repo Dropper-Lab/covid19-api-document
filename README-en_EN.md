@@ -10,17 +10,17 @@ The API document for COVID19 API from Dropper Lab.
 ## Contents Table
 
 - [I. Authentication](#I)
-    - [Value properties for authentication](#I-1)
-- [II. Korean local patient count](#II)
-    - [Value properties for request](#II-1)
-    - [Support area](#II-2)
-    - [Return field](#II-3)
-    - [Return example](#II-4)
-- [III. International patient count](#III)
-    - [Value properties for request](#III-1)
-    - [Support area](#III-2)
-    - [Return field](#III-3)
-    - [Return example](#III-4)
+    - [Value Properties for Authentication](#I-1)
+- [II. Korean Local Patient Count](#II)
+    - [Value Properties for Request](#II-1)
+    - [Supported Area](#II-2)
+    - [Return Field](#II-3)
+    - [Return Example](#II-4)
+- [III. International Patient Count](#III)
+    - [Value Properties for Request](#III-1)
+    - [Supported Country](#III-2)
+    - [Return Field](#III-3)
+    - [Return Example](#III-4)
 
 <div name='I'/>
 
@@ -32,7 +32,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='I-1'/>
 
-### Value properties for authentication
+### Value Properties for Authentication
 
 |method|attribute|data type|essential|detail|
 |:-:|:-:|:-:|:-:|:-:|
@@ -40,7 +40,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='II'/>
 
-## II. Korean local patient count
+## II. Korean Local Patient Count
 
 **API address** : **`GET`** https://api.dropper.tech/covid19/status/korea
 
@@ -48,7 +48,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='II-1'/>
 
-### Value properties for request
+### Value Properties for Fequest
 
 |attribute|data type|essential|detail|
 |:-:|:-:|:-:|:-:|
@@ -56,7 +56,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='II-2'/>
 
-### Support area
+### Supported Area
 
 |value|detail|
 |:-:|:-:|
@@ -82,7 +82,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='II-3'/>
 
-### Return field
+### Return Field
 
 |attribute|data type|detail|
 |:-:|:-:|:-:|
@@ -99,7 +99,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='II-4'/>
 
-### Return example
+### Return Example
 
 ```json
 {
@@ -149,7 +149,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='II'/>
 
-## III. International patient count
+## III. International Patient Count
 
 **API address** : **`GET`** https://api.dropper.tech/covid19/status/global
 
@@ -157,7 +157,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='III-1'/>
 
-### Value properties for request
+### Value Properties for Request
 
 |attribute|data type|essential|detail|
 |:-:|:-:|:-:|:-:|
@@ -165,7 +165,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='III-2'/>
 
-### supported country
+### Supported Country
 
 |value|detail|
 |:-:|:-:|
@@ -357,7 +357,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='III-3'/>
 
-### Return field
+### Return Field
 
 |attribute|data type|detail|
 |:-:|:-:|:-:|
@@ -368,7 +368,7 @@ Any platform or application developed in any language can be requested and used,
 
 <div name='III-4'/>
 
-### Return example
+### Return Example
 
 ```json
 {
