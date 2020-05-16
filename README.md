@@ -53,3 +53,6 @@ All source codes have to be located in same folder. (In following case, source c
 ### v1.0.4
 - Add description about source code and crontab automation.
 - Add lesotho to supported country.
+
+### v1.0.5
+- Reformat README-en_EN.md.
