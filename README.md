@@ -26,25 +26,29 @@ The API document for COVID19 API from Dropper Lab.
 
 All source codes have to be located in same folder. (In following case, source codes are in home/nulleekh/.)
 
-### Prepare
+### Crawling Management
+
+#### Prepare
 
 ```
 57 * * * * cd home/nulleekh/ ; python3.6 api-log-custodian.py
 ```
 
-### Crawling
+#### Crawling
 
 ```
 0 * * * * cd home/nulleekh/ ; python3.6 status_crawler.py ; python3.6 foreign_crawler.py
 ```
 
-### Check Data
+#### Check Data
 
 ```
 3 * * * * cd home/nulleekh/ ; python3.6 data_checker.py
 ```
 
-### Reset Request Count
+### System Management
+
+#### Reset Request Count
 
 ```
 0 15 * * * cd home/nulleekh/ ; python3.6 requestcount_resetor.py
