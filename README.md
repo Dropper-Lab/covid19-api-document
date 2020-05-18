@@ -77,3 +77,6 @@ All source codes have to be located in same folder. (In following case, source c
 
 ### v1.0.5
 - Reformat README-en_EN.md.
+
+### v1.0.6
+- Classificate crontab automation.
